@@ -13,7 +13,7 @@ void setup() {
   pinMode(sensorPin, INPUT);
   servo.attach(servoPin);
   servo.write(0);
-  
+
   Serial.begin(9600); //serial communication setup
 }
 
