@@ -2,7 +2,7 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=b4AzKfroLuw
 " target="_blank"><img src="http://img.youtube.com/vi/b4AzKfroLuw/0.jpg" 
-alt="movie on youtube" width=40% border="10" /></a>
+alt="movie on youtube" width=40% border="10" /></a>  
 [movie on youtube](https://www.youtube.com/watch?v=b4AzKfroLuw)  
 
 Wired Cafeにて MeetIoT第一回でした．  
